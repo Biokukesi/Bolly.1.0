@@ -1,0 +1,24 @@
+{
+  "name": "bolly-architects",
+  "version": "1.0.0",
+  "description": "Architectural designs",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "Sass",
+    "Html",
+    "Css"
+  ],
+  "author": "Kundananji Siame",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "bootstrap": "^5.1.3",
+    "fontawesome": "^5.6.3",
+    "postcss-cli": "^9.1.0",
+    "sass": "^1.45.0"
+  }
+}
